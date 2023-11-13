@@ -1,0 +1,10 @@
+Hammer,     		14.23,  	231
+Wrench,    			8.25, 		239
+Plyer,      		12.30,  	233
+Screw Driver,       13.43,  	213
+Leaf Blower,       109.05,  	156
+Saw,     			55.25,  	111
+Drill,     			67.53,  	159
+Screw,     			0.82,  		775
+Nail,      			3.98,  		805
+Wood,     			21.76, 		226
